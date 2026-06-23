@@ -38,7 +38,3 @@ The project requires consolidating and analyzing multi-source sales reports spli
 ![Excel Challenge 3 Final](./3-Challenge_img/Final-file-3.png)
 ![Excel Challenge 3 Final](./3-Challenge_img/Final-file-4.png)
 ![Excel Challenge 3 Final](./3-Challenge_img/Final-file-5.png)
-
-You can review and download the completed analytical workbook including all Power Query steps and Pivot Tables here:
-
-👉 [Download excel-challenge-3-FINAL](./3-Challenge_PowerQueryAndPivotTables/excel-challenge-3-FINAL)
