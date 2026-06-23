@@ -1,13 +1,13 @@
 # 46+ Excel Challenges from GoSkills
 
-Welcome to my repository dedicated to mastering advanced Microsoft Excel techniques! This project is a curated collection of **46+ practical Excel challenges** sourced from GoSkills[cite: 1]. Each folder represents a unique, real-world business scenario designed to sharpen data analysis, automation, and visualization skills.
+Welcome to my repository dedicated to mastering advanced Microsoft Excel techniques! This project is a curated collection of **46+ practical Excel challenges** sourced from GoSkills. Each folder represents a unique, real-world business scenario designed to sharpen data analysis, automation, and visualization skills.
 
 ## 🎯 Project Goals
 
-* **Master Core & Advanced Functions:** From basic text extraction to complex dynamic arrays and conditional logic[cite: 1].
-* **Automate Workflows:** Building dynamic solutions that automatically scale and update when new data is introduced[cite: 1].
-* **Data Visualization:** Crafting clean, professional, and interactive dashboards and charts to turn raw data into insights[cite: 1].
-* **Problem Solving:** Applying spreadsheet design best practices to tackle real-world financial, marketing, and HR scenarios[cite: 1].
+* **Master Core & Advanced Functions:** From basic text extraction to complex dynamic arrays and conditional logic.
+* **Automate Workflows:** Building dynamic solutions that automatically scale and update when new data is introduced.
+* **Data Visualization:** Crafting clean, professional, and interactive dashboards and charts to turn raw data into insights.
+* **Problem Solving:** Applying spreadsheet design best practices to tackle real-world financial, marketing, and HR scenarios.
 
 ---
 
@@ -30,5 +30,5 @@ Every challenge is self-contained within its own directory and includes:
 ## 🛠️ Tech Stack & Skills Demonstrated
 
 * **Software:** Microsoft Excel (Office 365)
-* **Key Formulas:** `SUMIFS`, `COUNTIFS`, `XLOOKUP`, Text Manipulation (`MID`, `LEFT`, `RIGHT`), Dynamic Arrays[cite: 1].
-* **Features:** Excel Tables, Conditional Formatting, Dynamic Charts, Data Validation[cite: 1].
+* **Key Formulas:** `SUMIFS`, `COUNTIFS`, `XLOOKUP`, Text Manipulation (`MID`, `LEFT`, `RIGHT`), Dynamic Arrays.
+* **Features:** Excel Tables, Conditional Formatting, Dynamic Charts, Data Validation.
