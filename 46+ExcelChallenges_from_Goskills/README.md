@@ -19,9 +19,10 @@ Every challenge is self-contained within its own directory and includes:
 
 | # | Challenge Name & Topic | Status | Final Solution |
 |---|------------------------|--------|----------------|
-| 1 | [Use Raw Data to Create Dynamic Reports](./1-Challenge_UseRawDataToCreateDynamicReports/) | ✅ Completed | [View File](./1-Challenge_UseRawDataToCreateDynamicReports/excel-challenge-1-FINAL.xlsx) |
-| 2 | Challenge 2 Name Placeholder | ⏳ In Progress | — |
-| 3 | Challenge 3 Name Placeholder | 📅 Planned | — |
+| 1 | [Use Raw Data to Create Dynamic Reports](./1-Challenge_UserRawDataToCreateDynamicReports/) | ✅ Completed | [View File](./1-Challenge_UserRawDataToCreateDynamicReports/excel-challenge-1-FINAL.xlsx) |
+| 2 | [Clean and Transform Data with Power Query](./2-Challenge_CleanAndTransformWithPowerQuery/) | ✅ Completed | [View File](./2-Challenge_CleanAndTransformWithPowerQuery/excel-challenge-2-FINAL.xlsx) |
+| 3 | [Power Query and Pivot Tables](./3-Challenge_PowerQueryAndPivotTables/) | ✅ Completed | [View File](./3-Challenge_PowerQueryAndPivotTables/excel-challenge-3-FINAL) |
+| 4 | Challenge 4 Name Placeholder | 📅 Planned | — |
 
 *Note: I will be updating this table progressively as I complete more challenges.*
 
