@@ -29,6 +29,3 @@ The challenge provides a dataset containing sales records with unique transactio
 
 ![Excel Challenge 1 Solution](./1-Challenge_img/Final-file.png)
 
-You can review and download the completed spreadsheet with all dynamic formulas and the column chart here:
-
-👉 [Download excel-challenge-1-FINAL.xlsx](./1-Challenge_UseRawDataToCreateDynamicReports/excel-challenge-1-FINAL.xlsx)
