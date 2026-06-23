@@ -34,7 +34,3 @@ The source file contains resolved issues data with several structural flaws[cite
 
 ![Excel Challenge 2 Task](./2-Challenge_img/Final-file-1.png)
 ![Excel Challenge 2 Task](./2-Challenge_img/Final-file-2.png)
-
-You can review and download the spreadsheet containing the complete Power Query steps and key questions answered here:
-
-👉 [Download excel-challenge-2-FINAL.xlsx](./2-Challenge_CleanAndTransformWithPowerQuery/excel-challenge-2-FINAL.xlsx)
