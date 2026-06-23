@@ -4,6 +4,8 @@ This repository contains my solution to the Excel Challenge #1 from GoSkills. Th
 
 ## 📋 Task Overview
 
+![Excel Challenge 1 Task](./1-Challenge_img/Task-file.png)
+
 The challenge provides a dataset containing sales records with unique transaction references, dates, and amounts. The objectives are as follows:
 
 1. **Extract Region Codes:** Write a dynamic formula to extract the three-digit region code from the middle of the text string in the `Ref` column (e.g., extracting `GBR` from `1044-GBR-11`).
@@ -24,6 +26,8 @@ The challenge provides a dataset containing sales records with unique transactio
 ---
 
 ## 🏆 FINAL SOLUTION
+
+![Excel Challenge 1 Solution](./1-Challenge_img/Final-file.png)
 
 You can review and download the completed spreadsheet with all dynamic formulas and the column chart here:
 
