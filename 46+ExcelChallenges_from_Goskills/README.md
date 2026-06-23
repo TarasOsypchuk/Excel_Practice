@@ -19,7 +19,7 @@ Every challenge is self-contained within its own directory and includes:
 
 | # | Challenge Name & Topic | Status | Final Solution |
 |---|------------------------|--------|----------------|
-| 1 | [Use Raw Data to Create Dynamic Reports](./1-Challenge_UserRawDataToCreateDynamicReports/) | ✅ Completed | [View File](./1-Challenge_UserRawDataToCreateDynamicReports/excel-challenge-1-FINAL.xlsx) |
+| 1 | [Use Raw Data to Create Dynamic Reports](./1-Challenge_UseRawDataToCreateDynamicReports/) | ✅ Completed | [View File](./1-Challenge_UseRawDataToCreateDynamicReports/excel-challenge-1-FINAL.xlsx) |
 | 2 | Challenge 2 Name Placeholder | ⏳ In Progress | — |
 | 3 | Challenge 3 Name Placeholder | 📅 Planned | — |
 
