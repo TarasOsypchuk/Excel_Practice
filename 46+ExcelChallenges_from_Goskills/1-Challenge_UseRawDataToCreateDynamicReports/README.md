@@ -27,6 +27,4 @@ The challenge provides a dataset containing sales records with unique transactio
 
 You can review and download the completed spreadsheet with all dynamic formulas and the column chart here:
 
-👉 [Download excel-challenge-1-FINAL.xlsx](./1-Challenge_UserRawDataToCreateDynamicReports/excel-challenge-1-FINAL.xlsx)
-
-*(Note: If you have a different folder structure on GitHub, make sure to adjust the relative link path above so it points directly to your file).*
+👉 [Download excel-challenge-1-FINAL.xlsx](./1-Challenge_UseRawDataToCreateDynamicReports/excel-challenge-1-FINAL.xlsx)
