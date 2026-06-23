@@ -29,7 +29,3 @@ The challenge simulates a real-world business request where a manager requires a
 ## 🏆 FINAL SOLUTION
 
 ![Excel Challenge 4 Final](./4-Challenge_img/Final-file-1.png)
-
-You can review and download the completed workbook with the built-in Power Query pipeline and the final structured table here:
-
-👉 [Download excel-challenge-4-FINAL.xlsx](./4-Challenge_AnalyzeDataWithPowerQuery/excel-challenge-4-FINAL.xlsx)
