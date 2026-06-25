@@ -1,4 +1,4 @@
-# \# Excel Challenge #11: Design an Interactive Selection Form
+# # Excel Challenge #11: Design an Interactive Selection Form
 
 # 
 
@@ -6,7 +6,7 @@
 
 # 
 
-# \## 📋 Task Overview
+# ## 📋 Task Overview
 
 # 
 
@@ -14,41 +14,41 @@
 
 # 
 
-# \### 🎯 Key Objectives:
+# ### 🎯 Key Objectives:
 
-# 1\. \*\*Interactive Form Architecture:\*\* Design an automated Course Selection form on the second worksheet that dynamically restricts user selections to eliminate rule-breaking entries.
+# 1. **Interactive Form Architecture:** Design an automated Course Selection form on the second worksheet that dynamically restricts user selections to eliminate rule-breaking entries.
 
-# 2\. \*\*Dependent Validation Controls:\*\* Configure strict conditional boundaries to prevent selection errors and enforce the specific 4-pathway / 3-elective balancing rules.
+# 2. **Dependent Validation Controls:** Configure strict conditional boundaries to prevent selection errors and enforce the specific 4-pathway / 3-elective balancing rules.
 
-# 3\. \*\*Student Selection Query Engine:\*\* Design an administrative lookup dashboard on the Student Selections data matrix to allow school administrators to query complete individual student course paths instantly by entering a student's name.
+# 3. **Student Selection Query Engine:** Design an administrative lookup dashboard on the Student Selections data matrix to allow school administrators to query complete individual student course paths instantly by entering a student's name.
 
-# 4\. \*\*Data Integrity Optimization:\*\* Implement duplicate removal processes and clean lookup workflows to establish an error-proof user interface.
-
-# 
-
-# \---
+# 4. **Data Integrity Optimization:** Implement duplicate removal processes and clean lookup workflows to establish an error-proof user interface.
 
 # 
 
-# \## 🛠️ Data Engineering \& Analysis Steps
+# ---
 
 # 
 
-# \* \*\*Dependent Data Validation:\*\* Leveraged advanced data validation parameters and named range rules to build contextual dropdown fields that adapt to user pathways.
-
-# \* \*\*Array-Based Querying:\*\* Deployed modern lookup functions (`XLOOKUP` / `VLOOKUP`) to map single string name parameters against multi-column horizontal arrays for data extraction.
-
-# \* \*\*Operational Rule Enforcement:\*\* Programmed background calculation cells to audit criteria volume thresholds, flagging compliance and blocks directly on the user input layer.
-
-# \* \*\*Duplicate Scrubbing:\*\* Structured cleaner data boundaries by identifying and isolating unique key identifiers to populate core selection indexes.
+# ## 🛠️ Data Engineering & Analysis Steps
 
 # 
 
-# \---
+# * **Dependent Data Validation:** Leveraged advanced data validation parameters and named range rules to build contextual dropdown fields that adapt to user pathways.
+
+# * **Array-Based Querying:** Deployed modern lookup functions (`XLOOKUP` / `VLOOKUP`) to map single string name parameters against multi-column horizontal arrays for data extraction.
+
+# * **Operational Rule Enforcement:** Programmed background calculation cells to audit criteria volume thresholds, flagging compliance and blocks directly on the user input layer.
+
+# * **Duplicate Scrubbing:** Structured cleaner data boundaries by identifying and isolating unique key identifiers to populate core selection indexes.
 
 # 
 
-# \## 🏆 FINAL SOLUTION
+# ---
+
+# 
+
+# ## 🏆 FINAL SOLUTION
 
 # 
 
@@ -58,5 +58,5 @@
 
 # 
 
-# 👉 \[Download excel-challenge-11-FINAL.xlsx](./11-Challenge\_DesignAnInteractiveSelectionForm/excel-challenge-11-FINAL.xlsx)
+# 👉 [Download excel-challenge-11-FINAL.xlsx](./11-Challenge\_DesignAnInteractiveSelectionForm/excel-challenge-11-FINAL.xlsx)
 

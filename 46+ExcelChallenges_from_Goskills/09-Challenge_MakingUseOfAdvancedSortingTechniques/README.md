@@ -1,4 +1,4 @@
-# \# Excel Challenge #9: Making Use of Advanced Sorting Techniques
+# # Excel Challenge #9: Making Use of Advanced Sorting Techniques
 
 # 
 
@@ -6,11 +6,11 @@
 
 # 
 
-# \## 📋 Task Overview
+# ## 📋 Task Overview
 
 # 
 
-# !\[Excel Challenge 9 Task](./9-Challenge\_img/Task-file-1.png)
+# ![Excel Challenge 9 Task](./9-Challenge\_img/Task-file-1.png)
 
 # 
 
@@ -18,43 +18,43 @@
 
 # 
 
-# \### 🎯 Key Objectives:
+# ### 🎯 Key Objectives:
 
-# 1\. \*\*Multi-Tier Regional Sorting:\*\* Sort the dataset alphabetically by town attributes as the primary category layer.
+# 1. **Multi-Tier Regional Sorting:** Sort the dataset alphabetically by town attributes as the primary category layer.
 
-# 2\. \*\*Custom Ordered Sequences:\*\* Within each localized town cluster, structure the secondary school classification level specifically to match a custom administrative ranking rule: `Elementary` > `Middle` > `High` > `Community College` > `University`.
+# 2. **Custom Ordered Sequences:** Within each localized town cluster, structure the secondary school classification level specifically to match a custom administrative ranking rule: `Elementary` > `Middle` > `High` > `Community College` > `University`.
 
-# 3\. \*\*Sub-Level Population Priority:\*\* For instances where towns host multiple entries of identical school types, isolate and sort them progressively starting with the largest population size.
+# 3. **Sub-Level Population Priority:** For instances where towns host multiple entries of identical school types, isolate and sort them progressively starting with the largest population size.
 
-# 4\. \*\*Occupancy Metric Calculations:\*\* Build a column calculation model to the right of the primary table grid to determine the occupancy percentages by comparing population values against fixed structural capacity limits.
-
-# 
-
-# \---
+# 4. **Occupancy Metric Calculations:** Build a column calculation model to the right of the primary table grid to determine the occupancy percentages by comparing population values against fixed structural capacity limits.
 
 # 
 
-# \## 🛠️ Data Engineering \& Analysis Steps
+# ---
 
 # 
 
-# \* \*\*Custom List Construction:\*\* Configured a native customized sorting list array inside Excel to override default alphabetical patterns for text strings (`Elementary`, `Middle`, `High`, etc.).
-
-# \* \*\*Advanced Multi-Level Sorts:\*\* Applied sequential data collection rules using the `Sort` window dialog parameters to isolate `Town` (A to Z), `Type` (Custom List), and `Population` (Largest to Smallest).
-
-# \* \*\*Ratio Calculations:\*\* Programmed custom evaluation fields to compute operational capacities ($Population / Capacity$) using appropriate numerical percentage formatting rules.
+# ## 🛠️ Data Engineering & Analysis Steps
 
 # 
 
-# \---
+# * **Custom List Construction:** Configured a native customized sorting list array inside Excel to override default alphabetical patterns for text strings (`Elementary`, `Middle`, `High`, etc.).
+
+# * **Advanced Multi-Level Sorts:** Applied sequential data collection rules using the `Sort` window dialog parameters to isolate `Town` (A to Z), `Type` (Custom List), and `Population` (Largest to Smallest).
+
+# * **Ratio Calculations:** Programmed custom evaluation fields to compute operational capacities ($Population / Capacity$) using appropriate numerical percentage formatting rules.
 
 # 
 
-# \## 🏆 FINAL SOLUTION
+# ---
 
 # 
 
-# !\[Excel Challenge 9 Final](./9-Challenge\_img/Final-file-1.png)
+# ## 🏆 FINAL SOLUTION
+
+# 
+
+# ![Excel Challenge 9 Final](./9-Challenge\_img/Final-file-1.png)
 
 # 
 
@@ -62,5 +62,5 @@
 
 # 
 
-# 👉 \[Download excel-challenge-9-FINAL.xlsx](./9-Challenge\_MakingUseOfAdvancedSortingTechniques/excel-challenge-9-FINAL.xlsx)
+# 👉 [Download excel-challenge-9-FINAL.xlsx](./9-Challenge\_MakingUseOfAdvancedSortingTechniques/excel-challenge-9-FINAL.xlsx)
 
