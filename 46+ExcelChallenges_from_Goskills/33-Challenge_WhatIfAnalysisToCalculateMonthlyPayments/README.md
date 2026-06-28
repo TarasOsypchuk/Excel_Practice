@@ -5,7 +5,6 @@ This repository contains my solution to the Excel Challenge #33 from GoSkills. T
 ## 📋 Task Overview
 
 ![Excel Challenge 33 Task](./33-Challenge_img/Task-file-1.png)
-![Excel Challenge 33 Task](./33-Challenge_img/Task-file-2.png)
 
 The project handles financial scenario planning for a residential property purchase. [cite_start]The initially proposed bank package demands an optimization review based on a structural mortgage configuration [cite: 1186, 1187][cite_start]: a principal loan balance of $400,000 [cite: 1186, 1188][cite_start], an annual interest rate of 4.25% (per annum) [cite: 1189][cite_start], and a fixed payment lifecycle spanning 30 years [cite: 1190][cite_start], with all installments arriving at the end of each month period[cite: 1191]. [cite_start]Given a strict internal hard budget constraint of $2500.00 per month [cite: 1192][cite_start], the task is divided into a two-part financial simulation query[cite: 1164, 1165].
 
@@ -29,3 +28,4 @@ The project handles financial scenario planning for a residential property purch
 ## 🏆 FINAL SOLUTION
 
 ![Excel Challenge 33 Final](./33-Challenge_img/Final-file-1.png)
+![Excel Challenge 33 Final](./33-Challenge_img/Final-file-2.png)
